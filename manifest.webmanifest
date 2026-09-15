@@ -1,0 +1,20 @@
+{
+  "name": "重组 16 训练饮食追踪",
+  "short_name": "重组 16",
+  "description": "16 周减脂重组计划的饮食、训练和身体数据追踪工具",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f1ea",
+  "theme_color": "#f4f1ea",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
